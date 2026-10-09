@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/bin/sh
 
 # Function to add an alias, updating only if --force is present
 add-alias() {
